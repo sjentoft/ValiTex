@@ -5,7 +5,7 @@
 \alias{framework}
 \title{This is data to be included in my package}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 36 rows and 16 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 30 rows and 13 columns.
 }
 \usage{
 framework
